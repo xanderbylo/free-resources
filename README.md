@@ -11,4 +11,4 @@ A collection of free resources for coding
 
 | Name | Languages | Notes |
 | --- | --- | --- |
-| [The Odin Project](https://www.theodinproject.com/) | <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby"/> | Full Stack | 
+| [The Odin Project](https://www.theodinproject.com/) | <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby"/> | Learn to be a Full Stack JavaScript or Full Stack Ruby on Rails Developer | 

@@ -8,6 +8,12 @@ A collection of free resources for coding
 | [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) | <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,ruby"/> | An introduction to Computer Science taught by lecturers at Harvard University |
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | <img src="https://skillicons.dev/icons?i=python"/> | An introduction to Computer Science and Python taught by lecturers at MIT |
 
+## :student: Open Source Society University
+
+| Name | Languages | Notes |
+| --- | --- | --- |
+| [Computer Science](https://github.com/ossu/computer-science) | <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,html,css,javascript"/> | An introduction to Computer Science taught by lecturers at Harvard University |
+
 ## :computer: Web Development
 
 | Name | Languages | Notes |

@@ -13,6 +13,7 @@ A collection of free resources for coding
 | Name | Languages | Notes |
 | --- | --- | --- |
 | [Computer Science](https://github.com/ossu/computer-science) | <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,html,css,javascript"/> | A complete education in computer science using online materials |
+| [Data Science](https://github.com/ossu/data-science) | <img src="https://skillicons.dev/icons?i=java,python,r"/> | A complete education in Data Science using online materials |
 
 ## :computer: Web Development
 

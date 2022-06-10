@@ -19,4 +19,5 @@ A collection of free resources for coding
 
 | Name | Languages | Notes |
 | --- | --- | --- |
+| [freeCodeCamp](https://www.freecodecamp.org/) | <img src="https://skillicons.dev/icons?i=html,css,javascript,python"/> | Gain coding certifications from Front End and Back End to Information Security and Machine Learning | 
 | [The Odin Project](https://www.theodinproject.com/) | <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby"/> | Learn to be a Full Stack JavaScript or Full Stack Ruby on Rails Developer | 

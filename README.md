@@ -1,6 +1,13 @@
 # :floppy_disk: Free Resources
 A collection of free resources for coding
 
+## :memo: Contents
+
+* [Introduction to Computer Science](#desktop_computer-introduction-to-computer-science)
+* [Open Source Society University](#student-open-source-society-university)
+* [Web Development](#computer-web-development)
+
+
 ## :desktop_computer: Introduction to Computer Science
 
 | Name | Languages | Notes |

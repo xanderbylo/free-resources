@@ -37,3 +37,4 @@ GitHub
 | Name | Notes |
 | --- | --- |
 | [Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps) | Software development roadmaps to give a clear route to improve your knowledge and skills |
+| [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) | A cheet sheet for markdown emojis with shortcodes and GitHub custom emojis  |

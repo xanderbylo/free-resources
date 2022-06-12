@@ -9,7 +9,7 @@ Learn to Code
 * [Web Development](#computer-web-development)
 
 GitHub
-* [GitHub Repositories]()
+* [GitHub Repositories](#minidisc-github-repositories)
 
 ## :desktop_computer: Introduction to Computer Science
 

@@ -2,7 +2,7 @@
 A collection of free resources for coding
 
 ## :memo: Contents
-(
+
 Learn to Code
 * [Introduction to Computer Science](#desktop_computer-introduction-to-computer-science)
 * [Open Source Society University](#student-open-source-society-university)
@@ -10,8 +10,6 @@ Learn to Code
 
 GitHub
 * [GitHub Repositories]()
-
-
 
 ## :desktop_computer: Introduction to Computer Science
 

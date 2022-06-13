@@ -38,3 +38,8 @@ GitHub
 | --- | --- |
 | [Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps) | Software development roadmaps to give a clear route to improve your knowledge and skills |
 | [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) | A cheet sheet for markdown emojis with shortcodes and GitHub custom emojis  |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | A list of free programming books in many languages |
+
+
+
+

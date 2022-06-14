@@ -1,5 +1,12 @@
 # :floppy_disk: Free Resources
-A collection of free resources for coding
+A collection of free resources for coding.
+
+:star: this repository to keep up to date with changes.
+
+Follow me at:
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@xanderbylo)
+[![Twitter](https://img.shields.io/twitter/follow/xanderbylo?logo=twitter&style=for-the-badge)](https://twitter.com/xanderbylo)
 
 ## :memo: Contents
 

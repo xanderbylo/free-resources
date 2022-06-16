@@ -18,6 +18,9 @@ Learn to Code
 GitHub
 * [GitHub Repositories](#minidisc-github-repositories)
 
+Videos
+* [YouTube](#video_camera-youtube)
+
 ## :desktop_computer: Introduction to Computer Science
 
 | Name | Languages | Notes |
@@ -46,6 +49,12 @@ GitHub
 | [Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps) | Software development roadmaps to give a clear route to improve your knowledge and skills |
 | [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) | A cheet sheet for markdown emojis with shortcodes and GitHub custom emojis  |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | A list of free programming books in many languages |
+
+## :video_camera: YouTube
+
+| Name | Notes |
+| --- | --- |
+| [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) | Video tutorials and beginner courses |
 
 
 

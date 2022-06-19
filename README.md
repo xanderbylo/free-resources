@@ -56,4 +56,5 @@ Videos
 | --- | --- |
 | [Corey Schafer](https://www.youtube.com/c/Coreyms/videos) | Python tutorials and walkthroughs for software developers, programmers and engineers |
 | [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) | Video tutorials and beginner courses |
-| [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | CSS tips, tricks and tutorials  |
+| [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | CSS tips, tricks and tutorials |
+| [Wes Bos](https://www.youtube.com/c/WesBos) | HTML, CSS, JavaScript and WordPress web development tutorials |

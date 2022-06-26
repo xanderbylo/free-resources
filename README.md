@@ -61,4 +61,9 @@ Videos
 | [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | CSS tips, tricks and tutorials |
 | [Paul Hudson](https://www.youtube.com/c/PaulHudson) | Tips, techniques and tutorials for Swift |
 | [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) | Learn Python, JavaScript and C# |
+| [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Web Dev tools, tips and tutorials to turn you into a Full Stack Developer |
 | [Wes Bos](https://www.youtube.com/c/WesBos) | HTML, CSS, JavaScript and WordPress web development tutorials |
+
+
+
+

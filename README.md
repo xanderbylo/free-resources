@@ -55,7 +55,8 @@ Videos
 | Name | Notes |
 | --- | --- |
 | [The Cherno](https://www.youtube.com/c/TheChernoProject) | Everything you need to know about C++ |
-| [Corey Schafer](https://www.youtube.com/c/Coreyms/videos) | Python tutorials and walkthroughs for software developers, programmers and engineers |
+| [Corey Schafer](https://www.youtube.com/c/Coreyms) | Python tutorials and walkthroughs for software developers, programmers and engineers |
+| [CS Dojo](https://www.youtube.com/c/CSDojo) | Python and Javascript tutorials with career and coding advice |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) | Web and UI/UX design tutorials |
 | [Dev Ed](https://www.youtube.com/c/DevEd) | Learn web development, web design, 3d modelling, figma and more |
 | [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) | Video tutorials and beginner courses |

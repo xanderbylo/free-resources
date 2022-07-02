@@ -64,5 +64,6 @@ Videos
 | [Paul Hudson](https://www.youtube.com/c/PaulHudson) | Tips, techniques and tutorials for Swift |
 | [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) | Learn Python, JavaScript and C# |
 | [sentdex](https://www.youtube.com/c/programmingwithmosh) | Python tutorials on machine learning, finance, data analysis, robotics, web development, game development and more |
+| [Tech With Tim](https://www.youtube.com/c/TechWithTim) | Learn programming, software engineering and machine learning with an emphasis on Python and JavaScript |
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Web Dev tools, tips and tutorials to turn you into a Full Stack Developer |
 | [Wes Bos](https://www.youtube.com/c/WesBos) | HTML, CSS, JavaScript and WordPress web development tutorials |

@@ -55,6 +55,7 @@ Videos
 | Name | Notes |
 | --- | --- |
 | [The Cherno](https://www.youtube.com/c/TheChernoProject) | Everything you need to know about C++ |
+| [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358) | Python, C programming, machine learning, artificial intelligence and computer science |
 | [Corey Schafer](https://www.youtube.com/c/Coreyms) | Python tutorials and walkthroughs for software developers, programmers and engineers |
 | [CS Dojo](https://www.youtube.com/c/CSDojo) | Python and Javascript tutorials with career and coding advice |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) | Web and UI/UX design tutorials |

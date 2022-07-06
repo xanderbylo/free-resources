@@ -58,6 +58,7 @@ Videos
 | [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358) | Python, C programming, machine learning, artificial intelligence and computer science |
 | [Corey Schafer](https://www.youtube.com/c/Coreyms) | Python tutorials and walkthroughs for software developers, programmers and engineers |
 | [CS Dojo](https://www.youtube.com/c/CSDojo) | Python and Javascript tutorials with career and coding advice |
+| [Derek Banas](https://www.youtube.com/user/derekbanas) | Learn programming, web development, game design, mobile development and more |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) | Web and UI/UX design tutorials |
 | [Dev Ed](https://www.youtube.com/c/DevEd) | Learn web development, web design, 3d modelling, figma and more |
 | [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) | Video tutorials and beginner courses |
@@ -68,3 +69,5 @@ Videos
 | [Tech With Tim](https://www.youtube.com/c/TechWithTim) | Learn programming, software engineering and machine learning with an emphasis on Python and JavaScript |
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Web Dev tools, tips and tutorials to turn you into a Full Stack Developer |
 | [Wes Bos](https://www.youtube.com/c/WesBos) | HTML, CSS, JavaScript and WordPress web development tutorials |
+
+
